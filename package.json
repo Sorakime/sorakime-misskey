@@ -1,0 +1,14 @@
+{
+  "name": "sorakime-misskey",
+  "version": "1.0.0",
+  "description": "Sorakimeさんがいつも使ってるMisskeyインスタンスであるmisskey.devを左に、misskey.04.siを右に表示させるElectron製アプリケーションですよ、はい\"",
+  "main": "src/main/main.js",
+  "scripts": {
+    "test": "npx electron ."
+  },
+  "author": "Sorakime",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.2.3"
+  }
+}
